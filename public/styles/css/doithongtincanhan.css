@@ -1,0 +1,35 @@
+body{
+    margin-top:20px;
+    background:#f8f8f8
+}
+
+#eye {
+position: absolute;
+    top: 44px;
+    left: 356px;
+		font-size: larger;
+}
+#eye.active {
+  color: #7f60eb;
+}
+
+#eye2 {
+	position: absolute;
+    top: 42px;
+    left: 359px;
+    font-size: large;
+}
+#eye2.active {
+  color: #7f60eb;
+}
+
+#eye3{
+	 position: absolute;
+    top: 42px;
+    left: 359px;
+    font-size: large;
+}
+
+#eye3.active {
+  color: #7f60eb;
+}

@@ -1,0 +1,24 @@
+.table .thead-dark th {
+	color: deepskyblue;
+}
+
+.table-dark td.key, .table-dark th, .table-dark thead th  {
+	color: chartreuse; 
+}
+
+a.add {
+	color: gold;
+}
+
+.fa-edit {
+	color:aquamarine;
+}
+
+.fa-book {
+	color: sandybrown;
+}
+
+a.link {
+	color: blueviolet;
+}
+
